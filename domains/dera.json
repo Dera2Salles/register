@@ -1,0 +1,11 @@
+{
+  "description": "Mon portfolio personnel sur Netlify",
+  "repo": "https://github.com/Dera2Salles/portofolio",
+  "owner": {
+    "username": "Dera2Salles",
+    "email": "dera.ah.14@gmail.com"
+  },
+  "record": {
+    "CNAME": "dera-portofolio.netlify.app"
+  }
+}
